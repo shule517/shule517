@@ -3,8 +3,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shule517
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shule517)](https://github.com/shule517/github-profile-trophy)
-
 <!--
 **shule517/shule517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
