@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shule517)](https://github.com/shule517/github-profile-trophy)
+
 <!--
 **shule517/shule517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
