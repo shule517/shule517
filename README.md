@@ -5,7 +5,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shule517" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shule517&hide=php" />
 
 
 <!--
